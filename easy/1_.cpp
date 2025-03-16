@@ -6,6 +6,9 @@ using namespace std;
 class Solution
 {
 public:
+    // Time complexity - O(m+n)
+    //  Space complexity - O(1)
+
     bool isToeplitzMatrix(vector<vector<int>> &matrix)
     {
         int h = matrix.size() - 1;
