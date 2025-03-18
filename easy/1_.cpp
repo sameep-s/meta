@@ -42,7 +42,7 @@ int main()
                              {5, 3},
                              {6, 5}};
 
-    bool isToeplitiz = sol.isToeplitzMatrix(mat2);
+    bool isToeplitiz = sol.isToeplitzMatrix(matrix);
 
     return 0;
 }
